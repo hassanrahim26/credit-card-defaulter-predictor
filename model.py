@@ -565,7 +565,7 @@ print(confusion_matrix(y_test,predictions))
 
 print(accuracy_score(y_test,predictions))
 """
-0.8267777777777777
+0.9067777777777777
 """
 
 # Saving the model to disk
